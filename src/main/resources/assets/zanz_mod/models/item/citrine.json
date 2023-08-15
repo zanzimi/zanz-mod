@@ -1,7 +1,6 @@
 {
   "parent": "item/generated",
-  "textures":
-  {
-    "layer0": "zanz_mod:items/citrine"
+  "textures": {
+    "layer0": "zanz_mod:item/citrine"
   }
 }

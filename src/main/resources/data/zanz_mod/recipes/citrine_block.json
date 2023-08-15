@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "zanz_mod:citrine"
+    }
+  },
+  "result": {
+    "item": "zanz_mod:citrine_block"
+  }
+}
