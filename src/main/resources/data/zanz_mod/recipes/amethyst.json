@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "citrine",
+  "group": "amethyst",
   "ingredients": [
     {
-      "item": "zanz_mod:citrine_block"
+      "item": "zanz_mod:amethyst_block"
     }
   ],
   "result": {
-    "item": "zanz_mod:citrine",
+    "item": "zanz_mod:amethyst",
     "count": 9
   }
 }

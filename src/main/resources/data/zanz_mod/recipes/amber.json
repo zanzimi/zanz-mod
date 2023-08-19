@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "citrine",
+  "group": "amber",
   "ingredients": [
     {
-      "item": "zanz_mod:citrine_block"
+      "item": "zanz_mod:amber_block"
     }
   ],
   "result": {
-    "item": "zanz_mod:citrine",
+    "item": "zanz_mod:amber",
     "count": 9
   }
 }

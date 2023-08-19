@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "slitther",
+  "ingredients": [
+    {
+      "item": "zanz_mod:amber"
+    },
+    {
+      "item": "zanz_mod:amethyst"
+    },
+    {
+      "item": "zanz_mod:carnation"
+    },
+    {
+      "item": "zanz_mod:citrine"
+    },
+    {
+      "item": "zanz_mod:rauchtopaz"
+    },
+    {
+      "item": "zanz_mod:ruby"
+    },
+    {
+      "item": "zanz_mod:saphire"
+    },
+    {
+      "item": "zanz_mod:topaz"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    }
+  ],
+  "result": {
+    "item": "zanz_mod:slitther"
+  }
+}

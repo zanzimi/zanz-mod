@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "zanz_mod:carnation_ore"
+  },
+  "result": "zanz_mod:carnation",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "citrine",
+  "group": "ruby",
   "ingredients": [
     {
-      "item": "zanz_mod:citrine_block"
+      "item": "zanz_mod:ruby_block"
     }
   ],
   "result": {
-    "item": "zanz_mod:citrine",
+    "item": "zanz_mod:ruby",
     "count": 9
   }
 }

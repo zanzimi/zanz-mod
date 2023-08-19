@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "citrine",
+  "group": "saphire",
   "ingredients": [
     {
-      "item": "zanz_mod:citrine_block"
+      "item": "zanz_mod:saphire_block"
     }
   ],
   "result": {
-    "item": "zanz_mod:citrine",
+    "item": "zanz_mod:saphire",
     "count": 9
   }
 }

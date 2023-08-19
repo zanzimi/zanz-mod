@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "zanz_mod:amethyst_ore"
+  },
+  "result": "zanz_mod:amethyst",
+  "experience": 1.0,
+  "cookingtime": 200
+}

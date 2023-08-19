@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "citrine",
+  "group": "carnation",
   "ingredients": [
     {
-      "item": "zanz_mod:citrine_block"
+      "item": "zanz_mod:carnation_block"
     }
   ],
   "result": {
-    "item": "zanz_mod:citrine",
+    "item": "zanz_mod:carnation",
     "count": 9
   }
 }

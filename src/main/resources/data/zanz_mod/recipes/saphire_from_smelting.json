@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zanz_mod:saphire_ore"
+  },
+  "result": "zanz_mod:saphire",
+  "experience": 1.0,
+  "cookingtime": 200
+}
