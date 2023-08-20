@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "zanz_mod:item/nelitther_pickaxe"
+  }
+}

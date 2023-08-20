@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "zanz_mod:nelitther_leggings"
+  },
+  "addition": {
+    "item": "zanz_mod:slitther_block"
+  },
+  "result": {
+    "item": "zanz_mod:slitther_leggings"
+  }
+}
